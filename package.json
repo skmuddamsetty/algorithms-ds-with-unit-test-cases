@@ -1,0 +1,11 @@
+{
+  "name": "algorithms-ds-revised-with-unit-test-cases",
+  "version": "1.0.0",
+  "description": "Algorithms and Data Structures with Unit Test Cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santhosh Kumar Muddamsetty",
+  "license": "ISC"
+}
